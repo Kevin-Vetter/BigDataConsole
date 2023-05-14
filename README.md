@@ -16,9 +16,10 @@ Create the Databases with EF and you are good to go - here from just press the k
 
 
 ## Tags
-* [V1.3](https://github.com/Kevin-Vetter/BigDataConsole)
+* [V1.0](https://github.com/Kevin-Vetter/BigDataConsole/releases/tag/V1.0)
 
 
 ## Changelog
 
-### [V1.3](https://github.com/Kevin-Vetter/BigDataConsole) Features: 
+### [V1.0](https://github.com/Kevin-Vetter/BigDataConsole/releases/tag/V1.0) Features: 
+See Instructions > menu
