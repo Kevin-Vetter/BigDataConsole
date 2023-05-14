@@ -67,7 +67,7 @@ async Task GetNewestPerson()
     using (var _context = new BigDataContext())
     {
         Person person = await _context.People.OrderBy(x => x.Id).LastAsync();
-        await Console.Out.WriteLineAsync(person.ToString());
+        await Console.Out.WriteLineAsync("\n"+person.ToString());
     }
 }
 async Task CreateData(CancellationToken token)
